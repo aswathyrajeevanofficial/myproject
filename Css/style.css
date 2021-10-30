@@ -1,0 +1,52 @@
+.navbar-dark .navbar-nav .nav-link{
+    color:#d9b824;
+    font-size: 15px;
+}
+.navbar{
+    background-color:#232020;
+    height:90px;
+}
+.about{
+    justify-content: center;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.lead{
+    line-height: 30px;
+    text-align: justify;
+    color:black;
+}
+.text-dark {
+    color: #fff!important;
+}
+p{
+    color:#fff;
+    line-height: 30px;
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+.para , h5 , li{
+    font-family: 'Poppins', sans-serif;
+}
+.testi{
+    background-color: black;
+    opacity: 80%;
+    color:white;
+}
+.img-thumbnail {
+    padding: 0.25rem;
+    max-width: 100%;
+    height: 300px;
+}
+.img-thumbnail:hover{
+   background-color: black;
+   opacity: 50%;
+   font-size: 20px;
+   color:white;
+}
+.btn{
+    width:200px;
+    padding: 5px;
+    font-size: 20px;
+}
